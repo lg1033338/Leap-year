@@ -1,0 +1,6 @@
+// Ask the User to give out a year
+// Convert it to an int
+// If its divisible of 400 then show its a leap year
+// If its divisible of 100 then show its not a leap year
+// If its divisible of 4 then show its a leap year
+// If none else  then show its not a leap year
